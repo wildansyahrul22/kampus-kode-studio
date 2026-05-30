@@ -32,7 +32,7 @@ export function CompanyOverview() {
               <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-xl shadow-xl border border-slate-100 max-w-xs hidden md:block">
                 <div className="flex items-center gap-4">
                   <div className="text-4xl font-bold font-heading text-primary">
-                    5+
+                    2+
                   </div>
                   <div className="text-sm text-slate-600 font-medium leading-tight">
                     Tahun Pengalaman di Industri Digital

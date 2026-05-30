@@ -6,31 +6,31 @@ Company Profile Website — Kampus Kode Studio adalah software house yang berger
 
 ## 🚀 Tech Stack
 
-| Category         | Technology         |
-| ---------------- | ------------------ |
-| Language         | TypeScript         |
-| Frontend         | React 19           |
-| Styling          | Tailwind CSS 4     |
-| UI Components    | shadcn/ui          |
-| Routing          | React Router v7    |
-| Animation        | Framer Motion      |
-| Forms            | React Hook Form    |
-| Validation       | Zod                |
-| SEO              | React Helmet Async |
-| Icons            | Lucide React       |
-| Build Tool       | Vite               |
-| Linting          | ESLint             |
-| Package Manager  | npm                |
+| Category        | Technology         |
+| --------------- | ------------------ |
+| Language        | TypeScript         |
+| Frontend        | React 19           |
+| Styling         | Tailwind CSS 4     |
+| UI Components   | shadcn/ui          |
+| Routing         | React Router v7    |
+| Animation       | Framer Motion      |
+| Forms           | React Hook Form    |
+| Validation      | Zod                |
+| SEO             | React Helmet Async |
+| Icons           | Lucide React       |
+| Build Tool      | Vite               |
+| Linting         | ESLint             |
+| Package Manager | npm                |
 
 ---
 
 ## 📄 Halaman
 
-| Route              | Deskripsi |
-| ------------------ | --------- |
-| `/`                | **Home** — One-page scroll dengan section: Hero, Company Overview, Services, Portfolio Preview, Tech Stack, Testimonials, Contact CTA |
-| `/projects`        | **Portfolio** — Daftar semua proyek dalam grid layout |
-| `/projects/:slug`  | **Project Detail** — Halaman detail tiap proyek (objective, teknologi, informasi proyek) |
+| Route             | Deskripsi                                                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `/`               | **Home** — One-page scroll dengan section: Hero, Company Overview, Services, Portfolio Preview, Tech Stack, Testimonials, Contact CTA |
+| `/projects`       | **Portfolio** — Daftar semua proyek dalam grid layout                                                                                 |
+| `/projects/:slug` | **Project Detail** — Halaman detail tiap proyek (objective, teknologi, informasi proyek)                                              |
 
 ---
 
@@ -55,14 +55,14 @@ src/
 
 ## 🎨 Design
 
-| Element    | Value       |
-| ---------- | ----------- |
-| Primary    | `#0A1E5E`   |
-| Secondary  | `#2563EB`   |
-| Background | `#FFFFFF`   |
-| Text       | `#1E293B`   |
-| Heading    | Poppins     |
-| Body       | Inter       |
+| Element    | Value     |
+| ---------- | --------- |
+| Primary    | `#0A1E5E` |
+| Secondary  | `#2563EB` |
+| Background | `#FFFFFF` |
+| Text       | `#1E293B` |
+| Heading    | Poppins   |
+| Body       | Inter     |
 
 ---
 
@@ -93,8 +93,8 @@ npm run lint
 
 ## 🌿 Branch Strategy
 
-| Branch       | Purpose                    |
-| ------------ | -------------------------- |
-| `main`       | Production-ready code      |
-| `develop`    | Integration branch         |
-| `feature/*`  | Feature development        |
+| Branch      | Purpose               |
+| ----------- | --------------------- |
+| `main`      | Production-ready code |
+| `develop`   | Integration branch    |
+| `feature/*` | Feature development   |
