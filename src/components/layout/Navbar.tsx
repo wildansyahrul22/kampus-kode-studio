@@ -53,7 +53,11 @@ export function Navbar() {
           {/* Contact CTA & Mobile Menu */}
           <div className="flex items-center gap-3">
             <div className="hidden md:block">
-              <a href="https://wa.me/6281279106175" target="_blank" rel="noopener noreferrer">
+              <a
+                href="https://wa.me/620123456789"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Button
                   size="sm"
                   className="bg-primary text-white hover:bg-primary/90 font-semibold px-5 py-4"
@@ -103,7 +107,12 @@ export function Navbar() {
                     ))}
                   </div>
                   <div className="p-5 border-t border-slate-100 bg-slate-50 mt-auto">
-                    <a href="https://wa.me/6281279106175" target="_blank" rel="noopener noreferrer" className="w-full">
+                    <a
+                      href="https://wa.me/620123456789"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="w-full"
+                    >
                       <Button className="w-full h-11 bg-primary text-white font-semibold shadow-md shadow-primary/20">
                         Konsultasi Gratis
                       </Button>

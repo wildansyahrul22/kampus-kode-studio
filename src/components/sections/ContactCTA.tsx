@@ -33,7 +33,12 @@ export function ContactCTA() {
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <a href="https://wa.me/6281279106175" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
+              <a
+                href="https://wa.me/620123456789"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full sm:w-auto"
+              >
                 <Button
                   size="lg"
                   className="bg-white text-primary hover:bg-slate-100 w-full h-14 px-8 text-base font-bold shadow-lg shadow-white/10"
@@ -41,7 +46,12 @@ export function ContactCTA() {
                   Jadwalkan Konsultasi <ArrowRight className="ml-2 w-5 h-5" />
                 </Button>
               </a>
-              <a href="https://wa.me/6281279106175" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
+              <a
+                href="https://wa.me/620123456789"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full sm:w-auto"
+              >
                 <Button
                   size="lg"
                   variant="outline"
